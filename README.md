@@ -5,7 +5,7 @@ This project is an HTML and CSS-based responsive clone of Spotify's web applicat
 I'd like to introduce you to a stunning HTML and CSS-made Spotify clone. This clone's seamless design embraces the core of the original platform while providing a user-friendly interface and aesthetically pleasing appearance. 
 
 ## Project Preview
-![image]()
+![image](https://github.com/subhadeephazra/Spotify-Clone/blob/f098abafc1641d6d8e76770c31ce4b74aa955148/Icons/imgs/Page_1.jpg)
 ![image](https://github.com/subhadeephazra/Spotify-Clone/blob/8378db032dd0831a5a3b8aa8f86bcc7dd3f49a81/Icons/imgs/Page%202.jpg)
 
 ## Features
